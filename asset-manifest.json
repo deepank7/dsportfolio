@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dsportfolio/static/css/main.9be9e2f6.chunk.css",
+    "main.js": "/dsportfolio/static/js/main.78e595b0.chunk.js",
+    "main.js.map": "/dsportfolio/static/js/main.78e595b0.chunk.js.map",
+    "runtime-main.js": "/dsportfolio/static/js/runtime-main.307745ef.js",
+    "runtime-main.js.map": "/dsportfolio/static/js/runtime-main.307745ef.js.map",
+    "static/js/2.327df7ae.chunk.js": "/dsportfolio/static/js/2.327df7ae.chunk.js",
+    "static/js/2.327df7ae.chunk.js.map": "/dsportfolio/static/js/2.327df7ae.chunk.js.map",
+    "static/js/3.08aab91f.chunk.js": "/dsportfolio/static/js/3.08aab91f.chunk.js",
+    "static/js/3.08aab91f.chunk.js.map": "/dsportfolio/static/js/3.08aab91f.chunk.js.map",
+    "index.html": "/dsportfolio/index.html",
+    "static/css/main.9be9e2f6.chunk.css.map": "/dsportfolio/static/css/main.9be9e2f6.chunk.css.map",
+    "static/js/2.327df7ae.chunk.js.LICENSE.txt": "/dsportfolio/static/js/2.327df7ae.chunk.js.LICENSE.txt",
+    "static/media/Project1.e3799c1b.png": "/dsportfolio/static/media/Project1.e3799c1b.png",
+    "static/media/Project2.6768b87a.png": "/dsportfolio/static/media/Project2.6768b87a.png",
+    "static/media/Project3.00c3b519.png": "/dsportfolio/static/media/Project3.00c3b519.png",
+    "static/media/avatar.d71020a0.jpg": "/dsportfolio/static/media/avatar.d71020a0.jpg",
+    "static/media/App.css": "/dsportfolio/static/media/coffee-apple.997eb988.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.307745ef.js",
+    "static/js/2.327df7ae.chunk.js",
+    "static/css/main.9be9e2f6.chunk.css",
+    "static/js/main.78e595b0.chunk.js"
+  ]
+}
