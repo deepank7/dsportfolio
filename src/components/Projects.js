@@ -15,7 +15,7 @@ import Navbar from "./Navbar";
 import project1 from "../images/Project1.png";
 import project2 from "../images/Project2.png";
 import project3 from "../images/Project3.png";
-// import project4 from "../images/mern-stack.jpg";
+import project4 from "../images/Project4.png";
 
 const useStyles = makeStyles({
   mainContainer: {
@@ -135,24 +135,23 @@ const Projects = () => {
                 component="img"
                 alt="Project 4"
                 height="140"
-              //image={project4}
+                image={project4}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                  Bank ATM interface
+                  Memories App
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                  Java project: 
-                  creating an ATM interface and adding the relevant functionality to it using OOPS concepts,
-                  The code has been made modular considering the SOLID principles.
+                  Memory cards from your past events in a SPA. There is an option to edit the details in case you missed something.
+                  The back-end is deployed on Heroku.
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
-              <Button size="small" color="primary">
+              <Button size="small" color="primary" target="_blank" href="https://github.com/deepank7/">
                 Share
               </Button>
-              <Button size="small" color="primary">
+              <Button size="small" color="primary" target="_blank" href="https://personal-memories.netlify.app/">
                 Live Demo
               </Button>
             </CardActions>
